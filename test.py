@@ -10,5 +10,13 @@ print('Bishkek')
 
 print('forms')
 
+
+
+lst = ['Nurkyz', 'Adliet', 'Abai', 'Siymyk', 'Ulan', 'Adilet', 'Richard', 'Insan', 'Azim']
+
+for a in lst:
+    print(a[0])
+    
 for i in range(0, 10):
     print(i)
+
