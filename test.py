@@ -9,3 +9,6 @@ print('Bishkek')
 # что показывает какие папки и файлы
 
 print('forms')
+
+for i in range(0, 10):
+    print(i)
