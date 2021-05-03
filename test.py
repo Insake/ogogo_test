@@ -1,5 +1,6 @@
 print('salam')
 print('Алейкум')
+print('Bishkek')
 
 # git init - команда инициализирующая гит... создает также папку .гит
 # git add <filename> - команда добавит 1 файл
